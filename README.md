@@ -1,7 +1,7 @@
-# AI-based-Virtual-Assistant
+# AI-Powered-Virtual-Assistant
 In today’s world of automation, everyone wants to have an automated tool which make their day to day life very easy. Day to day work involve opening any application present in system, play and control music, solve mathematical expressions, search on web, sending mail, setting reminders, getting daily news updates, weather details, etc. Everyone gets bored and tired doing same thing manually. People need automation in their life.
 
-We build an __Automated AI based Virtual Assistant__ to perform all the above-mentioned jobs and many more. It will reduce workload and will do ones work in just single voice command. No virtual assistant is available for both Linux and Windows. This virtual assistant has facility to listen to your commands and speak the response of your statement. You can turn off/on these facilities on your choice. These instructions are stored in a sqlite database so that any action performed can be store in database for further use. Conversation is not hardcoded as other chatbots might have. In this we train our model on manually build dataset for conversation.
+We build an __Automated AI Powered Virtual Assistant__ to perform all the above-mentioned jobs and many more. It will reduce workload and will do ones work in just single voice command. No virtual assistant is available for both Linux and Windows. This virtual assistant has facility to listen to your commands and speak the response of your statement. You can turn off/on these facilities on your choice. These instructions are stored in a sqlite database so that any action performed can be store in database for further use. Conversation is not hardcoded as other chatbots might have. In this we train our model on manually build dataset for conversation.
 <br>This virtual assistant has features like:<br>
 ->	Sending text message to a contact number,<br>
 ->	Control Music,<br>
